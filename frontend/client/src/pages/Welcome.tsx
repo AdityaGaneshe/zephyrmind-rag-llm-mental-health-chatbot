@@ -10,7 +10,7 @@ interface WelcomeProps {
 
 const TIPS = [
   "Track your daily stress levels with our visual dashboard",
-  "Chat with Serene Mind, your empathetic companion",
+  "Chat with ZephyrMind, your empathetic companion",
   "Practice guided breathing exercises anytime",
   "Discover curated videos for your stress level",
   "Complete evidence-based stress-relief tasks",
@@ -49,7 +49,7 @@ export default function Welcome({ onComplete }: WelcomeProps) {
           <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-primary to-emerald-600 flex items-center justify-center shadow-lg mb-4 animate-breathe">
             <Leaf className="w-8 h-8 text-white" />
           </div>
-          <h1 className="text-3xl font-bold text-foreground tracking-tight">Serene Mind</h1>
+          <h1 className="text-3xl font-bold text-foreground tracking-tight">ZephyrMind</h1>
           <p className="text-muted-foreground text-sm mt-1">Your empathetic AI companion</p>
         </div>
 

@@ -51,7 +51,7 @@ export function AppSidebar() {
           </div>
           <div className="flex flex-col">
             <p className="font-bold text-[17px] bg-clip-text text-transparent bg-gradient-to-r from-emerald-600 to-teal-600 dark:from-emerald-400 dark:to-teal-300 leading-none tracking-tight">
-              Serene Mind
+              ZephyrMind
             </p>
             <p className="text-[9px] font-bold text-teal-600/80 dark:text-teal-400/80 uppercase tracking-[0.15em] mt-1.5">
               Empathetic Companion

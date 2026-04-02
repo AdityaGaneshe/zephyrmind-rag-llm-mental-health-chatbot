@@ -1,4 +1,4 @@
-# Serene Mind — Stress Management App
+# ZephyrMind — Stress Management App
 
 ## Overview
 A comprehensive stress management web application featuring:

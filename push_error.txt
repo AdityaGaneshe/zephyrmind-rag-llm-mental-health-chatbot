@@ -1,0 +1,26 @@
+remote: error: GH013: Repository rule violations found for refs/heads/master.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:             
+remote:       G현G현 Twilio Account String Identifier G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현G현        
+remote:        locations:        
+remote:          - commit: 935b77b22015f9270671dc41366c44b2b685a359        
+remote:            path: backend/utils/twilio_alert.py:3        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/AdityaGaneshe/mental-health-chatbot/security/secret-scanning/unblock-secret/3BoTUgLFLN46VulBoMtj3iMIx7x        
+remote:             
+remote: 
+remote: 
+To https://github.com/AdityaGaneshe/mental-health-chatbot.git
+ ! [remote rejected] master -> master (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/AdityaGaneshe/mental-health-chatbot.git'

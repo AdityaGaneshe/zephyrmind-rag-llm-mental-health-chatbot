@@ -80,7 +80,7 @@ export default function App() {
                 <SidebarTrigger data-testid="button-sidebar-toggle" />
                 <div className="flex items-center gap-2">
                   <Leaf className="w-4 h-4 text-primary" />
-                  <span className="text-sm font-semibold text-foreground tracking-tight">Serene Mind</span>
+                  <span className="text-sm font-semibold text-foreground tracking-tight">ZephyrMind</span>
                 </div>
                 {profile && (
                   <div className="ml-auto text-xs text-muted-foreground">

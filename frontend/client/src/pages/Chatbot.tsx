@@ -126,7 +126,7 @@ export default function Chatbot() {
             <Bot className="w-5 h-5 text-primary-foreground" />
           </div>
           <div>
-            <h2 className="font-semibold text-foreground">Serene Mind</h2>
+            <h2 className="font-semibold text-foreground">ZephyrMind</h2>
             <div className="flex items-center gap-1.5">
               <div className="w-1.5 h-1.5 rounded-full bg-emerald-500"></div>
               <p className="text-xs text-muted-foreground">Empathetic Companion</p>
@@ -199,7 +199,7 @@ export default function Chatbot() {
                 <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mb-4">
                   <Heart className="w-8 h-8 text-primary" />
                 </div>
-                <h3 className="font-semibold text-foreground mb-2">Welcome to Serene Mind</h3>
+                <h3 className="font-semibold text-foreground mb-2">Welcome to ZephyrMind</h3>
                 <p className="text-muted-foreground text-sm max-w-sm mb-6">
                   I'm your empathetic AI companion. This is a safe, judgment-free space. Share how you're feeling and I'll guide you toward calm.
                 </p>

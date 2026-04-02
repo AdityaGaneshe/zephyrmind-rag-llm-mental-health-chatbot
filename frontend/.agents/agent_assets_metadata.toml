@@ -5,16 +5,16 @@ generated = []
 id = "eD_35YlhH_q0zkhUQy4Uh"
 uri = "file:///tmp/serene-mind.tar.gz"
 type = "unspecified"
-title = "Serene Mind — Full Project Code"
+title = "ZephyrMind — Full Project Code"
 
 [[outputs]]
 id = "lxCLAOi4p88cEaX0gyx74"
 uri = "file:///tmp/serene-mind-updated.tar.gz"
 type = "unspecified"
-title = "Serene Mind — With Ollama + ML Model Integration"
+title = "ZephyrMind — With Ollama + ML Model Integration"
 
 [[outputs]]
 id = "M6qGNUiR5ldYdVW2F3VXR"
 uri = "file://serene-mind-rag.tar.gz"
 type = "unspecified"
-title = "Serene Mind — With RAG + Ollama Integration"
+title = "ZephyrMind — With RAG + Ollama Integration"
